@@ -1,0 +1,3 @@
+C:/Users/arqan/CLionProjects/Projeto_Git/cmake-build-debug/CMakeFiles/Projeto_Git.dir
+C:/Users/arqan/CLionProjects/Projeto_Git/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/arqan/CLionProjects/Projeto_Git/cmake-build-debug/CMakeFiles/rebuild_cache.dir
